@@ -1,6 +1,6 @@
-![DevOps Engineer](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/your-image.gif)
+![Hijabi DevOps Engineer](https://github.com/Hafsa-Ahmadi/HAFSA-AHAMADI/assets/123456789/your-gif.gif)
 
-
+  
 <h1 align="center">Hi 👋, I'm Hafsa Ahamadi</h1>
 <h3 align="center">"Passionate about CI/CD, Cloud, and DevOps Culture"</h3>
 
