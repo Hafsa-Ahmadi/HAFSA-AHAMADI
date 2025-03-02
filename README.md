@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **DevOps,Cloud Computing,Developement.**
+- 💬 Ask me about **DevOps,Cloud Computing,Development.**
 
 - 📫 How to reach me **hafsaahamadi@gmail.com**
 
