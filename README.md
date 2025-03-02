@@ -1,3 +1,6 @@
+![DevOps Engineer](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/your-image.gif)
+
+
 <h1 align="center">Hi 👋, I'm Hafsa Ahamadi</h1>
 <h3 align="center">"Passionate about CI/CD, Cloud, and DevOps Culture"</h3>
 
