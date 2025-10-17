@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **hafsaahamadi@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/hafsa-ahamadi-870b48336](https://linkedin.com/in/hafsa-ahamadi-870b48336)
+- 📄 Know about my experiences https://www.linkedin.com/in/hafsa-ahmadi/ ](https://www.linkedin.com/in/hafsa-ahmadi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
