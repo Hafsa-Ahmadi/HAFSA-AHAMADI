@@ -10,17 +10,18 @@
 
 <p align="left"> <a href="https://twitter.com/hafsa_ahamadi" target="blank"><img src="https://img.shields.io/twitter/follow/hafsa_ahamadi?logo=twitter&style=for-the-badge" alt="hafsa_ahamadi" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Openshift ,kafka**
+- 🌱 I’m currently learning **DSA, Openshift ,kafka, MlOps**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects, open source projects, and building communities.**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for help with **DevOps and MlOps**
 
 - 💬 Ask me about **DevOps,Cloud Computing,Development.**
 
 - 📫 How to reach me **hafsaahamadi@gmail.com**
 
-- 📄 Know about my experiences https://www.linkedin.com/in/hafsa-ahmadi/ ](https://www.linkedin.com/in/hafsa-ahmadi/)
+- 📄 Know about my experiences [https://engineer.kodekloud.com/practice]
+-   linkedin   (https://www.linkedin.com/in/hafsa-ahmadi/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
